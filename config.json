@@ -1,0 +1,8 @@
+{
+  "status": "ONLINE",
+  "message": "Script Active!",
+  "expiry": "2025-08-31",
+  "max_users": 500,
+  "current_users": 120,
+  "password": "V3"
+}
