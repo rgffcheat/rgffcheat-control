@@ -1,8 +1,8 @@
 {
-  "status": "ONLINE",
-  "message": "Script Active!",
+  "status": "OFFLINE",
+  "message": "Script OFFLINE!",
   "expiry": "2025-08-31",
-  "max_users": 12,
-  "current_users": 10,
-  "password": "R3"
+  "max_users": 24,
+  "current_users": 20,
+  "password": "3"
 }
