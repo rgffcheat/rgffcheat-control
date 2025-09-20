@@ -1,6 +1,5 @@
 {
-  "password": "123",
-  "expiry_date": "2025-12-31",
-  "max_users": 5
+  "password": "1234",
+  "max_users": 5,
+  "expiry_date": "2025-12-31"
 }
-
